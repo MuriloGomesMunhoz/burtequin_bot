@@ -1,0 +1,10 @@
+{
+  "imposto_percent": 0.08,
+  "taxa_plataforma_percent": 0.23,
+  "taxa_cartao_percent": 0.03,
+  "desconto_medio_percent": 0.0,
+  "margem_liquida_desejada_percent": 0.18,
+  "overhead_mensal_est": 4000.0,
+  "vendas_previstas_mes": 500,
+  "custo_embalagem_padrao": 2.5
+}

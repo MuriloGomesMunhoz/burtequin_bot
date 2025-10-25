@@ -1,0 +1,37 @@
+codigo,ingrediente,un_base,estoque_minimo
+PBR,Pão brioche,un,0
+PTG,Pão tradicional com gergelim,un,0
+PAU,Pão australiano,un,0
+BLE,Blend hambúrguer 150g,g,0
+BLE,Blend apimentado 150g,g,0
+CHED,Queijo cheddar,g,0
+QPRA,Queijo prato,g,0
+QGOR,Queijo gorgonzola,g,0
+QUE,Queijo provolone,g,0
+QMUS,Queijo mussarela,g,0
+QBRI,Queijo brie,g,0
+CEBR,Cebola roxa,g,0
+TOM,Tomate Carmem/Salada,g,0
+ALF,Alface Americana,g,0
+CAL,Calabresa fatiada,g,0
+BAC,Bacon em tiras,g,0
+OVO,Ovo,g,0
+MAI,Maionese,g,0
+LIM,Limão,g,0
+ALH,Alho,g,0
+SAL,Salsinha,g,0
+CEB,Cebolinha,g,0
+MOS,Mostarda amarela,g,0
+MEL,Mel,g,0
+VIN,Vinagre de maçã,g,0
+A,Açúcar,g,0
+PIM,Pimenta dedo-de-moça,g,0
+CAT,Catupiry original,g,0
+MAN,Manteiga,g,0
+SHO,Shoyu,g,0
+SAL,Sal,g,0
+PIM,Pimenta-do-reino,g,0
+BAT,Batata frita,g,0
+MOL,Molho Cheddar,g,0
+MAI,Maionese verde (limão com ervas),g,0
+MOL,Molho mostarda e mel,g,0
