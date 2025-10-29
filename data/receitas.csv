@@ -1,62 +1,265 @@
 produto,variante,codigo_ingrediente,quantidade
-Simpatia,Padrao,PAU,1.0
-Simpatia,Padrao,BLE,1.0
-Simpatia,Padrao,QBRI,1.0
-Simpatia,Padrao,QBRI,1.0
-Simpatia,Padrao,CEBR,1.0
-Simpatia,Padrao,CEBR,1.0
-Simpatia,Padrao,MAI,1.0
-Simpatia,Padrao,BAT,1.0
-Saidinha,Padrao,PAU,1.0
-Saidinha,Padrao,BLE,1.0
-Saidinha,Padrao,QBRI,1.0
-Saidinha,Padrao,BAC,1.0
+Simpatia,Padrao,PBRI,1.0
+Simpatia,Padrao,HAMN,1.0
+Simpatia,Padrao,CHED,1.0
+Simpatia,Padrao,QPRA,1.0
+Simpatia,Padrao,MAIO,0.50
+Simpatia,Padrao,LIMA,0.50
+Simpatia,Padrao,ALHO,0.50
+Simpatia,Padrao,SALS,0.50
+Simpatia,Padrao,CEBO,0.50
+Simpatia,Padrao,TEMP,1.0
+Simpatia,Padrao,CEBB,0.30
+Simpatia,Padrao,FARI,0.20
+Simpatia,Padrao,MAIS,0.20
+Simpatia,Padrao,OLEO,0.30
+Simpatia,Padrao,ENER,0.30
+Simpatia,Padrao,AGUA,0.30
+Simpatia,Padrao,CEBR,0.30
+Simpatia,Padrao,ACUC,0.30
+Simpatia,Padrao,TARE,0.30
+Simpatia,Padrao,MANT,1.0
+Saidinha,Padrao,PGER,1.0
+Saidinha,Padrao,HAMN,1.0
+Saidinha,Padrao,QGOR,1.0
+Saidinha,Padrao,BACO,3.0
 Saidinha,Padrao,CEBR,1.0
-Saidinha,Padrao,MAI,1.0
-Saidinha,Padrao,BAT,1.0
-Acanhado,Padrao,PAU,1.0
-Acanhado,Padrao,BLE,1.0
-Acanhado,Padrao,QBRI,1.0
-Acanhado,Padrao,CAL,1.0
+Saidinha,Padrao,MAIO,0.50
+Saidinha,Padrao,LIMA,0.50
+Saidinha,Padrao,ALHO,0.50
+Saidinha,Padrao,SALS,0.50
+Saidinha,Padrao,CEBO,0.50
+Saidinha,Padrao,TEMP,1.0
+Saidinha,Padrao,ENER,0.30
+Saidinha,Padrao,AGUA,0.30
+Saidinha,Padrao,MANT,1.0
+Acanhado,Padrao,PAUS,1.0
+Acanhado,Padrao,HAMN,1.0
+Acanhado,Padrao,QPRO,1.0
+Acanhado,Padrao,CALA,1.0
 Acanhado,Padrao,CEBR,1.0
-Acanhado,Padrao,MOL,1.0
-Acanhado,Padrao,BAT,1.0
-Sem Razão,Padrao,PAU,1.0
-Sem Razão,Padrao,BLE,1.0
-Sem Razão,Padrao,QBRI,1.0
-Sem Razão,Padrao,MOL,1.0
+Acanhado,Padrao,MAIO,0.50
+Acanhado,Padrao,MOST,0.50
+Acanhado,Padrao,MEL,0.30
+Acanhado,Padrao,ENER,0.30
+Acanhado,Padrao,AGUA,0.30
+Acanhado,Padrao,MANT,1.0
+Sem Razão,Padrao,PGER,1.0
+Sem Razão,Padrao,HAMN,1.0
+Sem Razão,Padrao,TOMA,1.0
+Sem Razão,Padrao,ALFA,1.0
 Sem Razão,Padrao,CEBR,1.0
-Sem Razão,Padrao,TOM,1.0
-Sem Razão,Padrao,ALF,1.0
-Sem Razão,Padrao,MAI,1.0
-Sem Razão,Padrao,BAT,1.0
-Esquentadinho,Padrao,PAU,1.0
-Esquentadinho,Padrao,BLE,1.0
-Esquentadinho,Padrao,QBRI,1.0
-Esquentadinho,Padrao,CAT,1.0
+Sem Razão,Padrao,MOLB,0.30
+Sem Razão,Padrao,ENER,0.30
+Sem Razão,Padrao,AGUA,0.30
+Sem Razão,Padrao,MANT,1.0
+Sem Razão,Padrao,MAIO,0.50
+Sem Razão,Padrao,LIMA,0.50
+Sem Razão,Padrao,ALHO,0.50
+Sem Razão,Padrao,SALS,0.50
+Sem Razão,Padrao,CEBO,0.50
+Sem Razão,Padrao,TEMP,1.0
+Esquentadinho,Padrao,PBRI,1.0
+Esquentadinho,Padrao,HAMP,1.0
+Esquentadinho,Padrao,QMUS,1.0
 Esquentadinho,Padrao,CEBR,1.0
-Esquentadinho,Padrao,CEBR,1.0
-Esquentadinho,Padrao,GEL,1.0
-Esquentadinho,Padrao,MAI,1.0
-Esquentadinho,Padrao,BAT,1.0
-Sensacional,Padrao,PAU,1.0
-Sensacional,Padrao,BLE,1.0
-Sensacional,Padrao,QBRI,1.0
-Sensacional,Padrao,CAL,1.0
-Sensacional,Padrao,CEBR,1.0
-Sensacional,Padrao,MOL,1.0
-Sensacional,Padrao,BAT,1.0
-Sensacional Turbo,Padrao,PAU,1.0
-Sensacional Turbo,Padrao,BLE,2.0
-Sensacional Turbo,Padrao,QBRI,1.0
-Sensacional Turbo,Padrao,CAL,1.0
-Sensacional Turbo,Padrao,BAC,1.0
-Sensacional Turbo,Padrao,OVO,1.0
-Sensacional Turbo,Padrao,CEBR,1.0
-Sensacional Turbo,Padrao,MOL,1.0
-Sensacional Turbo,Padrao,BAT,1.0
-Metido,Padrao,PAU,1.0
-Metido,Padrao,BAC,2.0
-Metido,Padrao,MAI,1.0
-Metido,Padrao,BLE,2.0
-Metido,Padrao,MOL,1.0
+Esquentadinho,Padrao,CATU,1.0
+Esquentadinho,Padrao,MAIO,0.50
+Esquentadinho,Padrao,LIMA,1.0
+Esquentadinho,Padrao,ALHO,0.50
+Esquentadinho,Padrao,SALS,0.50
+Esquentadinho,Padrao,CEBO,0.50
+Esquentadinho,Padrao,TEMP,1.0
+Esquentadinho,Padrao,ENER,0.30
+Esquentadinho,Padrao,AGUA,0.30
+Esquentadinho,Padrao,MANT,1.0
+Esquentadinho,Padrao,PIME,0.50
+Esquentadinho,Padrao,ACUC,0.50
+Esquentadinho,Padrao,CEBB,0.30
+Esquentadinho,Padrao,FARI,0.20
+Esquentadinho,Padrao,MAIS,0.20
+Esquentadinho,Padrao,OLEO,0.30
+Metido,Padrao,PBRI,1.0
+Metido,Padrao,HAMN,2.0
+Metido,Padrao,BACO,2.0
+Metido,Padrao,MAIO,0.50
+Metido,Padrao,LIMA,0.50
+Metido,Padrao,ALHO,0.50
+Metido,Padrao,SALS,0.50
+Metido,Padrao,CEBO,0.50
+Metido,Padrao,TEMP,1.0
+Metido,Padrao,MCHE,1.0
+Metido,Padrao,ENER,0.30
+Metido,Padrao,AGUA,0.30
+Metido,Padrao,MANT,1.0
+Simpatia,Combo,PBRI,1.0
+Simpatia,Combo,HAMN,1.0
+Simpatia,Combo,CHED,1.0
+Simpatia,Combo,QPRA,1.0
+Simpatia,Combo,MAIO,0.50
+Simpatia,Combo,LIMA,0.50
+Simpatia,Combo,ALHO,0.50
+Simpatia,Combo,SALS,0.50
+Simpatia,Combo,CEBO,0.50
+Simpatia,Combo,TEMP,1.0
+Simpatia,Combo,CEBB,0.30
+Simpatia,Combo,FARI,0.20
+Simpatia,Combo,MAIS,0.20
+Simpatia,Combo,OLEO,0.30
+Simpatia,Combo,ENER,0.30
+Simpatia,Combo,AGUA,0.30
+Simpatia,Combo,CEBR,0.30
+Simpatia,Combo,ACUC,0.30
+Simpatia,Combo,TARE,0.30
+Simpatia,Combo,MANT,1.0
+Simpatia,Combo,BATF,1.0
+Simpatia,Combo,REFR,1.0
+Saidinha,Combo,PGER,1.0
+Saidinha,Combo,HAMN,1.0
+Saidinha,Combo,QGOR,1.0
+Saidinha,Combo,BACO,3.0
+Saidinha,Combo,CEBR,1.0
+Saidinha,Combo,MAIO,0.50
+Saidinha,Combo,LIMA,0.50
+Saidinha,Combo,ALHO,0.50
+Saidinha,Combo,SALS,0.50
+Saidinha,Combo,CEBO,0.50
+Saidinha,Combo,TEMP,1.0
+Saidinha,Combo,ENER,0.30
+Saidinha,Combo,AGUA,0.30
+Saidinha,Combo,MANT,1.0
+Saidinha,Combo,BATF,1.0
+Saidinha,Combo,REFR,1.0
+Acanhado,Combo,PAUS,1.0
+Acanhado,Combo,HAMN,1.0
+Acanhado,Combo,QPRO,1.0
+Acanhado,Combo,CALA,1.0
+Acanhado,Combo,CEBR,1.0
+Acanhado,Combo,MAIO,0.50
+Acanhado,Combo,MOST,0.50
+Acanhado,Combo,MEL,0.30
+Acanhado,Combo,ENER,0.30
+Acanhado,Combo,AGUA,0.30
+Acanhado,Combo,MANT,1.0
+Acanhado,Combo,BATF,1.0
+Acanhado,Combo,REFR,1.0
+Esquentadinho,Combo,PBRI,1.0
+Esquentadinho,Combo,HAMP,1.0
+Esquentadinho,Combo,QMUS,1.0
+Esquentadinho,Combo,CEBR,1.0
+Esquentadinho,Combo,CATU,1.0
+Esquentadinho,Combo,MAIO,0.50
+Esquentadinho,Combo,LIMA,1.0
+Esquentadinho,Combo,ALHO,0.50
+Esquentadinho,Combo,SALS,0.50
+Esquentadinho,Combo,CEBO,0.50
+Esquentadinho,Combo,TEMP,1.0
+Esquentadinho,Combo,ENER,0.30
+Esquentadinho,Combo,AGUA,0.30
+Esquentadinho,Combo,MANT,1.0
+Esquentadinho,Combo,PIME,0.50
+Esquentadinho,Combo,ACUC,0.50
+Esquentadinho,Combo,CEBB,0.30
+Esquentadinho,Combo,FARI,0.20
+Esquentadinho,Combo,MAIS,0.20
+Esquentadinho,Combo,OLEO,0.30
+Esquentadinho,Combo,BATF,1.0
+Esquentadinho,Combo,REFR,1.0
+Metido,Combo,PBRI,1.0
+Metido,Combo,HAMN,2.0
+Metido,Combo,BACO,2.0
+Metido,Combo,MAIO,0.50
+Metido,Combo,LIMA,0.50
+Metido,Combo,ALHO,0.50
+Metido,Combo,SALS,0.50
+Metido,Combo,CEBO,0.50
+Metido,Combo,TEMP,1.0
+Metido,Combo,MCHE,1.0
+Metido,Combo,ENER,0.30
+Metido,Combo,AGUA,0.30
+Metido,Combo,MANT,1.0
+Metido,Combo,BATF,1.0
+Metido,Combo,REFR,1.0
+Simpatia,Mini,PBRM,1.0
+Simpatia,Mini,HAMM,1.0
+Simpatia,Mini,CHED,1.0
+Simpatia,Mini,QPRA,1.0
+Simpatia,Mini,MAIO,0.25
+Simpatia,Mini,LIMA,0.25
+Simpatia,Mini,ALHO,0.25
+Simpatia,Mini,SALS,0.25
+Simpatia,Mini,CEBO,0.25
+Simpatia,Mini,TEMP,0.50
+Simpatia,Mini,CEBB,0.10
+Simpatia,Mini,FARI,0.10
+Simpatia,Mini,MAIS,0.10
+Simpatia,Mini,OLEO,0.20
+Simpatia,Mini,ENER,0.30
+Simpatia,Mini,AGUA,0.30
+Simpatia,Mini,CEBR,0.10
+Simpatia,Mini,ACUC,0.10
+Simpatia,Mini,TARE,0.10
+Simpatia,Mini,MANT,0.50
+Simpatia,Mini,BATF,0.50
+Saidinha,Mini,PGEM,1.0
+Saidinha,Mini,HAMM,1.0
+Saidinha,Mini,QGOR,0.30
+Saidinha,Mini,BACO,1.0
+Saidinha,Mini,CEBR,0.30
+Saidinha,Mini,MAIO,0.25
+Saidinha,Mini,LIMA,0.25
+Saidinha,Mini,ALHO,0.25
+Saidinha,Mini,SALS,0.25
+Saidinha,Mini,CEBO,0.25
+Saidinha,Mini,TEMP,0.50
+Saidinha,Mini,ENER,0.30
+Saidinha,Mini,AGUA,0.30
+Saidinha,Mini,MANT,0.50
+Saidinha,Mini,BATF,0.50
+Acanhado,Mini,PAUM,1.0
+Acanhado,Mini,HAMM,1.0
+Acanhado,Mini,QPRO,1.0
+Acanhado,Mini,CALA,0.30
+Acanhado,Mini,CEBR,0.30
+Acanhado,Mini,MAIO,0.30
+Acanhado,Mini,MOST,0.30
+Acanhado,Mini,MEL,0.20
+Acanhado,Mini,ENER,0.30
+Acanhado,Mini,AGUA,0.30
+Acanhado,Mini,MANT,0.50
+Acanhado,Mini,BATF,0.50
+Esquentadinho,Mini,PBRM,1.0
+Esquentadinho,Mini,HAPM,1.0
+Esquentadinho,Mini,QMUS,1.0
+Esquentadinho,Mini,CEBR,0.30
+Esquentadinho,Mini,CATU,0.30
+Esquentadinho,Mini,MAIO,0.25
+Esquentadinho,Mini,LIMA,0.25
+Esquentadinho,Mini,ALHO,0.25
+Esquentadinho,Mini,SALS,0.25
+Esquentadinho,Mini,CEBO,0.25
+Esquentadinho,Mini,TEMP,0.50
+Esquentadinho,Mini,ENER,0.30
+Esquentadinho,Mini,AGUA,0.30
+Esquentadinho,Mini,MANT,0.50
+Esquentadinho,Mini,PIME,0.30
+Esquentadinho,Mini,ACUC,0.30
+Esquentadinho,Mini,CEBB,0.20
+Esquentadinho,Mini,FARI,0.10
+Esquentadinho,Mini,MAIS,0.10
+Esquentadinho,Mini,OLEO,0.30
+Esquentadinho,Mini,BATF,0.50
+Metido,Mini,PBRM,1.0
+Metido,Mini,HAMM,2.0
+Metido,Mini,BACO,1.0
+Metido,Mini,MAIO,0.25
+Metido,Mini,LIMA,0.25
+Metido,Mini,ALHO,0.25
+Metido,Mini,SALS,0.25
+Metido,Mini,CEBO,0.25
+Metido,Mini,TEMP,0.50
+Metido,Mini,MCHE,0.50
+Metido,Mini,ENER,0.30
+Metido,Mini,AGUA,0.30
+Metido,Mini,MANT,0.50
+Metido,Mini,BATF,0.50

@@ -1,37 +1,47 @@
 codigo,ingrediente,un_base,estoque_minimo
-PBR,Pão brioche,un,0
-PTG,Pão tradicional com gergelim,un,0
-PAU,Pão australiano,un,0
-BLE,Blend hambúrguer 150g,g,0
-BLE,Blend apimentado 150g,g,0
-CHED,Queijo cheddar,g,0
-QPRA,Queijo prato,g,0
-QGOR,Queijo gorgonzola,g,0
-QUE,Queijo provolone,g,0
-QMUS,Queijo mussarela,g,0
-QBRI,Queijo brie,g,0
-CEBR,Cebola roxa,g,0
-TOM,Tomate Carmem/Salada,g,0
-ALF,Alface Americana,g,0
-CAL,Calabresa fatiada,g,0
-BAC,Bacon em tiras,g,0
+PBRI,Pão brioche,un,8
+PGER,Pão tradicional com gergelim,un,8
+PAUS,Pão australiano,un,8
+HAMN,Blend hambúrguer 150g,g,8
+HAMP,Blend apimentado 150g,g,8
+CHED,Queijo cheddar,g,8
+QPRA,Queijo prato,g,8
+QGOR,Queijo gorgonzola,g,8
+QPRO,Queijo provolone,g,8
+QMUS,Queijo mussarela,g,8
+CEBR,Cebola roxa,g,8
+TOMA,Tomate Carmem/Salada,un,1
+ALFA,Alface Americana,un,1
+CALA,Calabresa fatiada,un,12
+BACO,Bacon em tiras,g,16
 OVO,Ovo,g,0
-MAI,Maionese,g,0
-LIM,Limão,g,0
-ALH,Alho,g,0
-SAL,Salsinha,g,0
-CEB,Cebolinha,g,0
-MOS,Mostarda amarela,g,0
-MEL,Mel,g,0
-VIN,Vinagre de maçã,g,0
-A,Açúcar,g,0
-PIM,Pimenta dedo-de-moça,g,0
-CAT,Catupiry original,g,0
-MAN,Manteiga,g,0
-SHO,Shoyu,g,0
-SAL,Sal,g,0
-PIM,Pimenta-do-reino,g,0
-BAT,Batata frita,g,0
-MOL,Molho Cheddar,g,0
-MAI,Maionese verde (limão com ervas),g,0
-MOL,Molho mostarda e mel,g,0
+MAIO,Maionese,g,400
+LIMA,Limão,g,2
+ALHO,Alho,g,1
+SALS,Salsinha,g,1
+CEBO,Cebolinha,g,1
+MOST,Mostarda amarela,g,250
+MEL,Mel,g,100
+ACUC,Açúcar,g,300
+PIME,Pimenta dedo-de-moça,g,10
+CATU,Catupiry original,g,200
+MANT,Manteiga,g,500
+TARE,Molho Tare,g,200
+SALN,Sal normal para batatas,g,200
+SALT,Sal temperado para hambúrguer,g,250
+BATF,Batata frita,g,2000
+MCHE,Molho Cheddar,g,300
+CEBB,Cebola Branca,un,4
+FARI,farinha de trigo,g,1000
+MAIS,Amido de milho,g,300
+TEMP,"Temperos (páprica doce, lemon pepper)",g,100
+OLEO,Óleo para frituras,g,1000
+ENER,Energia Elétrica,un,5
+AGUA,Água,un,5
+MOLB,Barbecue,g,250
+REFR,Refrigerante,un,8
+PBRM,Pão brioche Mini,un,12
+PGEM,Pão tradicional com gergelim mini,un,12
+PAUM,Pão australiano mini,un,12
+HAMM,Blend hambúrguer 50g,g,12
+HAPM,Blend apimentado 50g,g,12
